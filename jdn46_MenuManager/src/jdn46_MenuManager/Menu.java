@@ -69,7 +69,7 @@ public class Menu {
 			side.setDescription("N/A");
 			side.setCal(0);
 		}
-		
+
 		return "Entree: " + entree.getName() + ". " + entree.getDescription() + ". \n"+ "\n"
 		+ "Side: " + side.getName() + ". " + side.getDescription() + ". \n"+ "\n"
 		+ "Salad: " + salad.getName() + ". " + salad.getDescription() + ". \n" + "\n"

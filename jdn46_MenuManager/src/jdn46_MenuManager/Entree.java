@@ -14,11 +14,11 @@ public class Entree {
 		setDescription(desc);
 		calories=cal;
 	}
-	/*Getter for name*/
+
 	public String getName() {
 		return name;
 	}
-	/*Setter for name*/
+
 	public void setName(String name) {
 		this.name = name;
 	}
